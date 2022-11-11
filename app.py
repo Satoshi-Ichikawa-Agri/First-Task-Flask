@@ -9,6 +9,7 @@ from flask import render_template
 from PIL import Image
 
 
+# Flaskのオブジェクト生成
 app = Flask(__name__)
 
 
